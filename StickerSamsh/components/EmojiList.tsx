@@ -3,8 +3,6 @@ import {
     Platform,
     Pressable,
     StyleSheet,
-    Text,
-    View,
   } from "react-native";
   import React, { useState } from "react";
   import { type ImageSource,Image } from "expo-image";
